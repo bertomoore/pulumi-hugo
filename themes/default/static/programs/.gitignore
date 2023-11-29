@@ -362,9 +362,9 @@ target/
 !.gitignore
 
 # Lockfiles.
-go.sum
-package-lock.json
-yarn.lock
+# go.sum
+# package-lock.json
+# yarn.lock
 
 # Stack config files.
 Pulumi.*.yaml

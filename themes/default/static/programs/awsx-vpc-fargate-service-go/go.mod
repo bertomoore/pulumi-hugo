@@ -1,8 +1,6 @@
-module awsx-vpc-fargate-service-yaml
+module awsx-vpc-fargate-service-go
 
 go 1.21
-
-toolchain go1.21.0
 
 require (
 	github.com/pulumi/pulumi-aws/sdk/v6 v6.10.0

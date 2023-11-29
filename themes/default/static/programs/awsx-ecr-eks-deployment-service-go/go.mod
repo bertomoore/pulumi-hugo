@@ -1,8 +1,6 @@
-module awsx-ecr-eks-deployment-service-yaml
+module awsx-ecr-eks-deployment-service-go
 
 go 1.21
-
-toolchain go1.21.0
 
 require (
 	github.com/pulumi/pulumi-awsx/sdk/v2 v2.2.0
